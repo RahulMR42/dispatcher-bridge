@@ -1,0 +1,176 @@
+2022-08-04 09:37:57,008 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 09:37:57,042 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 09:44:06,924 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 09:44:07,004 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 09:45:28,908 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 09:45:28,916 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 09:45:28,917 - root -  INFO - Deleted db - dynamo_enguCnBJRBEZ4YK7esneSn
+2022-08-04 09:46:24,563 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 09:46:24,564 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 09:46:24,565 - root -  INFO - Deleted db - dynamo_3jMqA3bXSUbsArfWjzPm8H
+2022-08-04 09:46:40,248 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 09:46:40,249 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 09:46:40,250 - root -  INFO - Deleted db - dynamo_9S7ntRw3WrpnHGapknvEp5
+2022-08-04 10:01:06,099 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:01:06,160 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:02:39,307 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:02:39,349 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:03:09,610 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:03:09,654 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:04:24,761 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:04:24,795 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:04:24,844 - root -  INFO - Creating state store
+2022-08-04 10:05:19,528 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:05:19,577 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:05:19,637 - root -  INFO - Creating state store
+2022-08-04 10:06:14,060 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:06:14,122 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:06:14,175 - root -  INFO - Creating state store
+2022-08-04 10:07:01,106 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:07:01,137 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:07:01,177 - root -  INFO - Creating state store
+2022-08-04 10:27:05,096 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:27:05,134 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:27:05,183 - root -  INFO - Creating state store
+2022-08-04 10:28:09,662 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:28:09,696 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:28:09,774 - root -  INFO - Creating state store
+2022-08-04 10:29:16,181 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:29:16,238 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:29:16,307 - root -  INFO - Creating state store
+2022-08-04 10:29:56,280 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:29:56,328 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:29:56,384 - root -  INFO - Creating state store
+2022-08-04 10:43:21,576 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:43:21,637 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:43:21,679 - root -  INFO - Creating state store ('dynamo-QNaLWiQQDgHVpHwjDCWzB7',)
+2022-08-04 10:44:59,062 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 10:44:59,104 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 10:44:59,159 - root -  INFO - Creating state store {DYNAMO_NAME}
+2022-08-04 10:45:19,291 - root -  INFO - Created a db - ('dynamo-nX4TSqftMVyj56YAmFEx8j',)
+2022-08-04 11:01:00,802 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 11:01:00,859 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 11:01:00,930 - root -  INFO - Creating state store  dynamo-Rrr7uTeycjgc5QcV2L9Xd9
+2022-08-04 11:02:40,653 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 11:02:40,724 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 11:02:40,777 - root -  INFO - Creating state store  dynamo-ap5GBZE8XKq7qt9LmG7KWK
+2022-08-04 11:03:00,918 - root -  INFO - Created a db -  dynamo-ap5GBZE8XKq7qt9LmG7KWK
+2022-08-04 11:03:37,972 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 11:03:38,008 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 11:03:38,051 - root -  INFO - Creating state store  dynamo-YYxwtwMKEEfNaDjysMqrgr
+2022-08-04 11:03:58,161 - root -  INFO - Created a db -  dynamo-YYxwtwMKEEfNaDjysMqrgr
+2022-08-04 11:03:58,164 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 11:03:58,165 - root -  INFO - Deleted db -  dynamo-YYxwtwMKEEfNaDjysMqrgr
+2022-08-04 11:13:11,120 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 11:13:11,234 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 11:13:11,293 - root -  INFO - Creating state store  dispatch-YYsC284GnpcmzpecP8SVEp
+2022-08-04 11:13:31,432 - root -  INFO - Created a db -  dispatch-YYsC284GnpcmzpecP8SVEp
+2022-08-04 11:13:31,435 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 11:13:31,435 - root -  INFO - Deleted db -  dispatch-YYsC284GnpcmzpecP8SVEp
+2022-08-04 11:13:39,669 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 11:13:39,723 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 11:13:39,772 - root -  INFO - Creating state store  dispatch-HAgVvLLGpJ2eMy33LttAQY
+2022-08-04 11:13:59,893 - root -  INFO - Created a db -  dispatch-HAgVvLLGpJ2eMy33LttAQY
+2022-08-04 11:13:59,895 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 11:13:59,895 - root -  INFO - Deleted db -  dispatch-HAgVvLLGpJ2eMy33LttAQY
+2022-08-04 11:16:58,375 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 11:16:58,423 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 11:16:58,464 - root -  INFO - Creating state store  dispatch-Z5v228DBBEnqrM3JZLPH7H
+2022-08-04 11:17:18,581 - root -  INFO - Created a db -  dispatch-Z5v228DBBEnqrM3JZLPH7H
+2022-08-04 11:17:18,584 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 11:17:18,584 - root -  INFO - Deleted db -  dispatch-Z5v228DBBEnqrM3JZLPH7H
+2022-08-04 11:18:48,047 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 11:18:48,075 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 11:18:48,120 - root -  INFO - Creating state store  dispatch-fc9g6poNAepDawNjTnaa9j
+2022-08-04 11:19:08,237 - root -  INFO - Created a db -  dispatch-fc9g6poNAepDawNjTnaa9j
+2022-08-04 11:19:08,240 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 12:05:19,973 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:05:20,075 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 12:05:20,160 - root -  INFO - Creating state store  dispatch-Ect7tLUWEDtpxGdBm64amD
+2022-08-04 12:05:40,292 - root -  INFO - Created a db -  dispatch-Ect7tLUWEDtpxGdBm64amD
+2022-08-04 12:05:40,296 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 12:05:40,296 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 12:08:28,266 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:08:28,330 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 12:08:28,388 - root -  INFO - Creating state store  dispatch-U5HHY8vov4GSocTeg233eg
+2022-08-04 12:08:48,516 - root -  INFO - Created a db -  dispatch-U5HHY8vov4GSocTeg233eg
+2022-08-04 12:08:48,529 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 12:08:48,529 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 12:24:39,406 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:24:39,439 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 12:24:39,479 - root -  INFO - Creating state store  dispatch-Qy9xjzCh43XBuMmc5o8gBo
+2022-08-04 12:24:59,606 - root -  INFO - Created a db -  dispatch-Qy9xjzCh43XBuMmc5o8gBo
+2022-08-04 12:25:50,290 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:25:50,325 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 12:25:50,367 - root -  INFO - Creating state store  dispatch-VNyvPcej2peVvoGHFYvCeJ
+2022-08-04 12:26:10,500 - root -  INFO - Created a db -  dispatch-VNyvPcej2peVvoGHFYvCeJ
+2022-08-04 12:26:10,763 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 12:26:10,763 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 12:28:04,255 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:28:04,291 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 12:28:04,330 - root -  INFO - Creating state store  dispatch-3YqzEa7Cgn3VHX5kaBrur6
+2022-08-04 12:28:24,444 - root -  INFO - Created a db -  dispatch-3YqzEa7Cgn3VHX5kaBrur6
+2022-08-04 12:28:24,687 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 12:28:24,688 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 12:35:33,974 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:35:52,450 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:36:26,212 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:36:26,249 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 12:36:26,290 - root -  INFO - Creating state store  dispatch-P6dEYKLccv4uMdU8PZNjFy
+2022-08-04 12:36:46,405 - root -  INFO - Created a db -  dispatch-P6dEYKLccv4uMdU8PZNjFy
+2022-08-04 12:36:46,621 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 12:36:46,621 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 12:44:57,214 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:44:57,275 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 12:44:57,356 - root -  INFO - Creating state store  dispatch-DUYq3zWECdxKyNp42L6TKS
+2022-08-04 12:45:17,477 - root -  INFO - Created a db -  dispatch-DUYq3zWECdxKyNp42L6TKS
+2022-08-04 12:45:17,712 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 12:45:17,712 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 12:57:30,570 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:57:30,608 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 12:57:30,650 - root -  INFO - Creating state store  dispatch-g2QJirU8u3Jh3bhExiEdcY
+2022-08-04 12:59:00,381 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 12:59:00,389 - root -  INFO - Created a function - dispatch-Jbx2Yne7ywmnRMMCFCisXN 
+2022-08-04 12:59:00,389 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 12:59:00,389 - root -  INFO - Target app code created and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 13:05:29,566 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:05:29,575 - root -  INFO - Created a function - dispatch-UVRdch2PYR5U2rLSpxpBJJ 
+2022-08-04 13:05:29,575 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 13:05:29,575 - root -  INFO - Target app code created and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 13:15:39,921 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:17:10,396 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:17:38,931 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:18:12,936 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:19:01,574 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:19:01,582 - root -  INFO - Created a function - dispatch-ABouKY8wWUo6t8iugGvrop 
+2022-08-04 13:19:01,582 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 13:19:01,582 - root -  INFO - Target app code created and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 13:20:34,376 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:20:34,386 - root -  INFO - Created a function - dispatch-9hv9KbJtrfT98myDsDsgdf 
+2022-08-04 13:20:34,387 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 13:20:34,387 - root -  INFO - Target app code created and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 13:23:19,071 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:23:19,091 - root -  INFO - Created a function - dispatch-9X4aYGccRQtDUa4WjvvUtR 
+2022-08-04 13:23:19,091 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 13:23:19,091 - root -  INFO - Target app code created and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 13:26:09,709 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:26:09,724 - root -  INFO - Created a function - dispatch-XoRtQi8Rvf9pySWnHrGv4C 
+2022-08-04 13:26:09,725 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 13:26:09,725 - root -  INFO - Target app code created and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 13:27:58,871 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:27:58,878 - root -  INFO - Created a function - dispatch-cjzzUAAMjvGraU9fJZcCs2 
+2022-08-04 13:27:58,879 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 13:27:58,879 - root -  INFO - Target app code created and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 13:39:58,198 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:40:51,074 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:40:51,081 - root -  INFO - Created a function - dispatch-oWmAgkYRPpnVy3UG5fDG8d 
+2022-08-04 13:40:51,081 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 13:40:51,081 - root -  INFO - Target app code created and moved as ../my_app/awsoffloader/target_app.py
+2022-08-04 13:44:25,090 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:45:59,041 - root -  INFO - Starting dispatcher - AWS 
+2022-08-04 13:45:59,076 - botocore.credentials -  INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-04 13:45:59,120 - root -  INFO - Creating state store  dispatch-7D5UXSxJWU9k2xQbsreH2w
+2022-08-04 13:46:19,276 - root -  INFO - Created a db -  dispatch-7D5UXSxJWU9k2xQbsreH2w
+2022-08-04 13:46:19,525 - root -  INFO - Created a function - dispatch-7D5UXSxJWU9k2xQbsreH2w 
+2022-08-04 13:46:19,525 - root -  INFO - Offloaded content and moved as ../my_app/awsoffloader/target_lambda.py
+2022-08-04 13:46:19,525 - root -  INFO - Target app code created and moved as ../my_app/awsoffloader/target_app.py

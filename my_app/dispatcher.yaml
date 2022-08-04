@@ -1,0 +1,40 @@
+name: python-multi-threading
+description: A sample python app to off load to cloud.
+runtime:
+  language: python
+  extension: .py
+offloaders:
+  movetocloud:
+    cloud: aws
+    targets:
+      lambda:
+        name: mrfunction
+        runtime: python3.9
+        requirements: function_requirements.txt # Optional 
+        region: "us-west-2"
+        role: "arn:aws:iam::138472308340:role/service-role/mr-python-function-1-role-ueboedac"
+        handler: "perftest.lambda_handler"
+        baseliner:
+          enabled: "yes"
+          math_operation: add
+          input_values: #Userinputs
+            type: json
+            values:
+              action: loopcheck
+              number: 65
+          output_values: #Output for baseline check
+            transactions:
+              value: 60
+              type: int
+
+
+#  offtolambda:
+#    cloud: aws
+#    targets:
+#       lambda:
+#         type: python
+#       eke:
+#         type: java
+
+
+
