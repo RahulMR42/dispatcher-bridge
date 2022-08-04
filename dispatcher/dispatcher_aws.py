@@ -18,7 +18,8 @@ FILENAME = r'../my_app/cputest.py'
 AWS_OFFLOADER_PATH = "../my_app/awsoffloader"
 OP_ATTRIBUTE = "outputs"
 TEMPLATE_PATH = "templates"
-AWS_ROLE_ID = "arn:aws:iam::138472308340:role/service-role/mr-python-function-1-role-ueboedac"
+AWS_ROLE_ID = "arn:aws:iam::138472308340:role/lamdbarole"
+# "arn:aws:iam::138472308340:role/service-role/mr-python-function-1-role-ueboedac"
 TIMEOUT_VALUE = 900
 LAMBDA_HANDLER_DEFAULT = "target_lambda.lambda_handler"
 
@@ -63,8 +64,8 @@ table = dynamo_client.create_table(
           },
         ],
         ProvisionedThroughput={
-          'ReadCapacityUnits': 10,
-          'WriteCapacityUnits': 10
+          'ReadCapacityUnits': 50,
+          'WriteCapacityUnits': 50
         }
      
     )

@@ -38,7 +38,7 @@ initthreads=50
 
 
 #INSERTEDINITCODE
-appname='dispatch-7D5UXSxJWU9k2xQbsreH2w'
+appname='dispatch-Tk48zHkf3cJf3GTXW7zcqN'
 def deldynamooutputs(lambdafuncname,dynamodb=None):
     #print('Creating DynamoBDTable connection')
     dynamodb = boto3.resource('dynamodb')

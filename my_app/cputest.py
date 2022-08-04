@@ -40,8 +40,9 @@ def task(id):
       float(x) / 3.141592
     for x in range(1,10000):
       float(3.141592) / x
-  transactions = transactions+1
 #end-movetocloud#
+  transactions = transactions+1
+
 
 def createthreads(numthreads):
 #  print('creating ' + str(numthreads) + ' threads to handle transactions')
